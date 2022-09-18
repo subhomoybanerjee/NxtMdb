@@ -1,6 +1,6 @@
 import MeetUpDetail from "../components/meetups/MeetUpDetail";
 import { MongoClient, ObjectId } from 'mongodb'
-import Head from "next/dist/next-server/lib/head";
+import Head from "next/head";
 
 function MeetUpDetails(props) {
     return (
