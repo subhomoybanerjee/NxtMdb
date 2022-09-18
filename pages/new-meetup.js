@@ -1,6 +1,6 @@
 
 import NewMeetupForm from "../components/meetups/NewMeetupForm"
-import router, { useRouter } from 'next/router'
+import { useRouter } from 'next/router'
 import Head from "next/head"
 
 
