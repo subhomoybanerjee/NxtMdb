@@ -1,1 +1,0 @@
-{"ast":null,"code":"function a() {\n  return;\n}","map":{"version":3,"sources":["C:/Users/DELL/Desktop/code/react/nextjs/pages/[meetupId].js"],"names":["a"],"mappings":"AAAA,SAASA,CAAT,GAAY;AACR;AACH","sourcesContent":["function a(){\r\n    return\r\n}"]},"metadata":{},"sourceType":"script"}

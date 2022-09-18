@@ -1,1 +1,0 @@
-{"ast":null,"code":"import MeetUpDetail from \"../components/meetups/MeetUpDetail\";","map":{"version":3,"sources":["C:/Users/DELL/Desktop/code/react/nextjs/pages/[meetupId].js"],"names":["MeetUpDetail"],"mappings":"AAAA,OAAOA,YAAP,MAAyB,oCAAzB","sourcesContent":["import MeetUpDetail from \"../components/meetups/MeetUpDetail\";"]},"metadata":{},"sourceType":"module"}
